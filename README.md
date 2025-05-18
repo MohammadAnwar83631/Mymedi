@@ -1,5 +1,5 @@
 # Mymedi
-Sure! Here’s a structured format you can use to write a GitHub repository report for your project, "MyMedi". 
+Here’s a structured format you can use to write a GitHub repository report for your project, "MyMedi". 
 
 ---
 
@@ -66,11 +66,6 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Thanks to all contributors and the open-source community for their support and resources.
 
 ---
 

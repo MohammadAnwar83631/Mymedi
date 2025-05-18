@@ -1,5 +1,4 @@
-# Mymedi
-Here’s a structured format you can use to write a GitHub repository report for your project, "MyMedi". 
+# welcome to Mymedi 
 
 ---
 
